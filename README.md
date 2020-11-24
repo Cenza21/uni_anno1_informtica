@@ -1,7 +1,7 @@
 # uni_anno1_informtica
 In questa repo verranno caricati tutto il codice che scriverò per esercitarmi con il linguaggio C
 
-Allora sono stupido è ho caricato il file project c che non devo capire come rimuovere
+Allora sono stupido e ho caricato il file project c che non devo capire come rimuovere
 
 Comunque il file main.c contiene un esercizio utile per chi non è pratico con le LISTE MONODIREZIONALI in C,
 infatti presenta un menu nel quale puoi decidere quali operazioni vuoi fare su una lista definita da questa struct:
